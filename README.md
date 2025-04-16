@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ayeshaazeem21/ayeshaazeem21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech student passionate about coding, journaling, and reading. I enjoy creating small projects that reflect my interests, like book tracking, habit-building, and exploring different coding challenges. I believe in learning and growing a little every day. 
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Python: My primary language for coding projects.
+- C Programming: Basics, with a focus on algorithms and data structures.
+- HTML/CSS: Building simple websites and interfaces.
+- Journaling & Books: Combining my love for books with coding projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm Always Learning:
+- Exploring new Python libraries
+- Improving web development skills (HTML, CSS)
+- Trying to make time for reading, journaling, and coding every day!
