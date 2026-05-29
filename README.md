@@ -1,3 +1,4 @@
+![SSoC S5 Contributor](./ssoc-s5-contributor-ayeshaazeem21.png)
 # Hi, I'm Ayesha Azeem 👋
 
 B.Tech CSE student at KMEA Engineering College | Python enthusiast | AI/ML learner
