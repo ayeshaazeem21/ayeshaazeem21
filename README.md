@@ -1,14 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ayesha Azeem 👋
 
-I'm a B.Tech student passionate about coding, journaling, and reading. I enjoy creating small projects that reflect my interests, like book tracking, habit-building, and exploring different coding challenges. I believe in learning and growing a little every day. 
+B.Tech CSE student at KMEA Engineering College | Python enthusiast | AI/ML learner
 
-## 🧠 Skills
-- Python: My primary language for coding projects.
-- C Programming: Basics, with a focus on algorithms and data structures.
-- HTML/CSS: Building simple websites and interfaces.
-- Journaling & Books: Combining my love for books with coding projects.
+## 🛠️ Skills
+Python • Java • C • JavaScript • SQL
 
-## 🌱 I'm Always Learning:
-- Exploring new Python libraries
-- Improving web development skills (HTML, CSS)
-- Trying to make time for reading, journaling, and coding every day!
+## 💼 Experience
+- Python Dev Intern @ CodeClause
+- AI & Prompt Engineering Intern @ VaultOfCodes
+
+## 📜 Certifications
+- IBM AI Developer
+- NPTEL — Artificial Intelligence
+- NASSCOM — Generative AI Literacy
+
+## 🌐 Connect
+[LinkedIn](https://www.linkedin.com/in/ayeshaazeem21/) • [Email](mailto:ayesha2006azeem@gmail.com)
